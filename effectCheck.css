@@ -1,0 +1,22 @@
+.check {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+#inPutA{
+    width: 200px;
+    height: 70px;
+    margin-bottom: 150px;
+}
+
+#inPutB{
+    width: 200px;
+    height: 70px;
+}
+
+#checkButton {
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+}
